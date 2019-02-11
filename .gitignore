@@ -47,7 +47,7 @@ dist/**/*
 .idea
 
 #   项目内置配置
-local_config.json
+#local_config.json
 
 *.sqlite
 *.sqlite3
